@@ -1,0 +1,12 @@
+{
+   "manifest_version": 3,
+   "name": "Run In the Background",
+   "version": "1.0.3",
+   "description": "No js code, only let your chrome running in background",
+   "permissions": [
+      "background"
+   ],
+   "background": {
+      "persistence": true
+   }
+}
